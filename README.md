@@ -1,2 +1,2 @@
 # exercicio_peixe
- Exercicio semana 1
+ Exercício semana 1
